@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "LongestUniqueSubstring",
+            "request": "launch",
+            "mainClass": "LongestUniqueSubstring",
+            "projectName": "Java_2335ad03"
+        },
+        {
+            "type": "java",
+            "name": "StringFun",
+            "request": "launch",
+            "mainClass": "StringFun",
+            "projectName": "Java_2335ad03"
+        },
+        {
+            "type": "java",
             "name": "activity1",
             "request": "launch",
             "mainClass": "activity1",
